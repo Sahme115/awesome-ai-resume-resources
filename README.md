@@ -82,6 +82,7 @@ One-click PDFs from each repo in the ecosystem:
 
 - [bad-vs-good-rewrites.jsonl](https://github.com/Sahme115/ai-resume-humanizer-prompts/blob/main/datasets/bad-vs-good-rewrites.jsonl) — 25 paired rewrites for eval/fine-tune
 - [ats-resume-keyword-dataset](https://github.com/Sahme115/ats-resume-keyword-dataset) — JSON + CSV, 10 roles including [customer-success](https://github.com/Sahme115/ats-resume-keyword-dataset/blob/main/data/by-role/customer-success.json) and [engineering-management](https://github.com/Sahme115/ats-resume-keyword-dataset/blob/main/data/by-role/engineering-management.json)
+- [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) — Open MIT dataset of which ATS each of 738 large employers uses (704 portal-verified; Workday 37.9% of verified, not 75.4%).
 
 ---
 
@@ -93,6 +94,8 @@ One-click PDFs from each repo in the ecosystem:
   - [Resume Credibility Checker](https://cvpage.org/resume-credibility-checker)
   - [ChatGPT Resume Fix](https://cvpage.org/chatgpt-resume-fix)
   - [Rewrite Resume Bullets](https://cvpage.org/rewrite-resume-bullets)
+
+- [ResumeAI](https://withresumeai.com/) — Free ATS checker and embeddable checker at /embed, plus the open State of ATS 2026 dataset.
 
 ---
 
